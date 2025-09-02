@@ -1,0 +1,2 @@
+Index of 5 in even array: 4
+Index of 23 in odd array: 1
