@@ -6,7 +6,7 @@
 //   printNameNTimes(personName, times - 1);
 // }
 
-function print(value: string) {
+export function print(value: string | number) {
   console.log(value);
 }
 function printNameNTimes(iteration: number, times: number) {
