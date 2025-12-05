@@ -1,28 +1,49 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Compile and Run C++ (PowerShell)",
-      "type": "shell",
-      "command": "powershell",
-      "args": [
-        "-NoProfile",
-        "-Command",
-        "& { g++ -std=c++17 '${file}' -o '${fileDirname}\\${fileBasenameNoExtension}.exe'; if ($?) { Get-Content '${fileDirname}\\input.txt' | & '${fileDirname}\\${fileBasenameNoExtension}.exe' | Out-File -Encoding ASCII '${fileDirname}\\output.txt'; Write-Host 'Finished! Check output.txt' } }"
-      ],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "presentation": {
-        "echo": true,
-        "reveal": "always",
-        "focus": false,
-        "panel": "shared"
-      },
-      "problemMatcher": [
-        "$gcc"
-      ]
-    }
-  ]
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile and Run Java",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-Command",
+                "& { javac '${file}'; if ($?) { if (Test-Path '${fileDirname}\\input.txt') { Get-Content '${fileDirname}\\input.txt' | java -cp '${fileDirname}' '${fileBasenameNoExtension}' | Out-File -Encoding ASCII '${fileDirname}\\output.txt'; Write-Host 'Finished! Check output.txt' } else { java -cp '${fileDirname}' '${fileBasenameNoExtension}' } } }"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Compile and Run C++",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-Command",
+                "& { g++ -std=c++17 '${file}' -o '${fileDirname}\\${fileBasenameNoExtension}.exe'; if ($?) { if (Test-Path '${fileDirname}\\input.txt') { Get-Content '${fileDirname}\\input.txt' | & '${fileDirname}\\${fileBasenameNoExtension}.exe' | Out-File -Encoding ASCII '${fileDirname}\\output.txt'; Write-Host 'Finished! Check output.txt' } else { & '${fileDirname}\\${fileBasenameNoExtension}.exe' } } }"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
 }

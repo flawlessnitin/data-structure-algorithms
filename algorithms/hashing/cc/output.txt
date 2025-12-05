@@ -1,5 +1,9 @@
-Enter string (lowercase a-z): How many queries? Enter character to query: count of m = 2
-Enter character to query: count of n = 3
-Enter character to query: count of a = 1
-Enter character to query: count of i = 3
-Enter character to query: count of t = 1
+12 -> 1
+3 -> 2
+2 -> 2
+1 -> 2
+2
+2
+2
+0
+1
