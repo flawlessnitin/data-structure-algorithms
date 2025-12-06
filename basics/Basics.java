@@ -1,12 +1,29 @@
-import java.util.Scanner;
+// import java.util.Scanner;
+
+// class Test {
+//   public void printTest() {
+//     System.out.println("Text Class");
+//   }
+// }
+
+class BankAccount {
+  double balance;
+  public BankAccount() {
+    balance = 100.0;
+  }
+  public void printBalance() {
+    System.out.println(balance);
+  }
+}
+
 public class Basics {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    int number = scanner.nextInt();
-    System.out.println(number);
-    scanner.close();
+    // test.printTest();
+    BankAccount test = new BankAccount();
+    test.printBalance(); 
   }
 }
 
 
-// buffered
+// // buffered
+
