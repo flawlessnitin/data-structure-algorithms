@@ -1,6 +1,8 @@
 # Data Structures & Algorithms
 
-Personal DSA practice repo in **C++** — covers core concepts, algorithm implementations, and competitive programming problems.
+Personal DSA practice repo in **C++** — following [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) (474 problems) alongside the 100xSchool Bootcamp.
+
+See [ROADMAP.md](./ROADMAP.md) for the full phase-wise plan.
 
 ***
 
