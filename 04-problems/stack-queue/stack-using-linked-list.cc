@@ -1,5 +1,5 @@
 // Problem    : Implement Stack using Linked List
-// Link       : https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/
+// Link       : https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Sort a Doubly Linked List
-// Link       : https://www.geeksforgeeks.org/sort-the-biotonic-doubly-linked-list/
+// Link       : https://www.geeksforgeeks.org/problems/sort-the-biotonic-doubly-linked-list/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

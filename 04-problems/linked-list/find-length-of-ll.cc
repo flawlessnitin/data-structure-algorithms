@@ -1,5 +1,5 @@
 // Problem    : Find Length of Linked List
-// Link       : https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+// Link       : https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

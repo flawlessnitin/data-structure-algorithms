@@ -1,5 +1,5 @@
 // Problem    : Floor and Ceil in Sorted Array
-// Link       : https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
+// Link       : https://www.geeksforgeeks.org/problems/floor-in-bst/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

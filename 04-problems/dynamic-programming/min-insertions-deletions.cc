@@ -1,5 +1,5 @@
 // Problem    : Minimum Insertions and Deletions to Convert String
-// Link       : https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

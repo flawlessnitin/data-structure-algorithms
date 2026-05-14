@@ -1,5 +1,5 @@
 // Problem    : Largest BST in a Binary Tree
-// Link       : https://www.geeksforgeeks.org/largest-bst-binary-tree/
+// Link       : https://www.geeksforgeeks.org/problems/largest-bst/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

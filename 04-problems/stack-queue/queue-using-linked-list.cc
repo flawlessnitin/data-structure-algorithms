@@ -1,5 +1,5 @@
 // Problem    : Implement Queue using Linked List
-// Link       : https://www.geeksforgeeks.org/queue-linked-list-implementation/
+// Link       : https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

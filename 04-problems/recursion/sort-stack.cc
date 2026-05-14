@@ -1,5 +1,5 @@
 // Problem    : Sort a Stack using Recursion
-// Link       : https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+// Link       : https://www.geeksforgeeks.org/problems/sort-a-stack/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

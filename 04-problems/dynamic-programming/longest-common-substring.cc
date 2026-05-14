@@ -1,5 +1,5 @@
 // Problem    : Longest Common Substring
-// Link       : https://www.geeksforgeeks.org/longest-common-substring-dp-29/
+// Link       : https://www.geeksforgeeks.org/problems/longest-common-substring1452/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

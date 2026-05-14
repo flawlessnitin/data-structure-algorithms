@@ -1,5 +1,5 @@
 // Problem    : Union of Two Sorted Arrays
-// Link       : https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+// Link       : https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/0
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

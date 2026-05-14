@@ -1,5 +1,5 @@
 // Problem    : Minimum Number of Platforms
-// Link       : https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-platforms/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

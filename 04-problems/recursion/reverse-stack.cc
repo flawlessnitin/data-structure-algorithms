@@ -1,5 +1,5 @@
 // Problem    : Reverse a Stack using Recursion
-// Link       : https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/
+// Link       : https://www.geeksforgeeks.org/problems/reverse-a-stack/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

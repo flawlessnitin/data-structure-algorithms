@@ -1,5 +1,5 @@
 // Problem    : Minimum Multiplications to Reach End
-// Link       : https://www.geeksforgeeks.org/minimum-multiplications-to-reach-end/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

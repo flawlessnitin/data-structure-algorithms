@@ -1,5 +1,5 @@
 // Problem    : Matrix Chain Multiplication
-// Link       : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+// Link       : https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

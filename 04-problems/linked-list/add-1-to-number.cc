@@ -1,5 +1,5 @@
 // Problem    : Add 1 to a Number Represented as LL
-// Link       : https://www.geeksforgeeks.org/add-1-number-represented-linked-lists/
+// Link       : https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

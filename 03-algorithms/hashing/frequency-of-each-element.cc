@@ -1,5 +1,5 @@
 // Problem    : Count Frequency of Each Element
-// Link       : https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/
+// Link       : https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : K-th Element of Two Sorted Arrays
-// Link       : https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/
+// Link       : https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

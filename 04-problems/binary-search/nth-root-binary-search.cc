@@ -1,5 +1,5 @@
 // Problem    : Nth Root of a Number
-// Link       : https://www.geeksforgeeks.org/n-th-root-number/
+// Link       : https://www.geeksforgeeks.org/problems/nth-root-of-m/0
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

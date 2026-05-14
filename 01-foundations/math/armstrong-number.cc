@@ -1,5 +1,5 @@
 // Problem    : Armstrong Number
-// Link       : https://www.geeksforgeeks.org/program-to-check-armstrong-number/
+// Link       : https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

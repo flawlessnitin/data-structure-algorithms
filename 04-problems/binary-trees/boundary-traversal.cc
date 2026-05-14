@@ -1,5 +1,5 @@
 // Problem    : Boundary Traversal of Binary Tree
-// Link       : https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
+// Link       : https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

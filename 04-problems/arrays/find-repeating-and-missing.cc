@@ -1,5 +1,5 @@
 // Problem    : Find the Repeating and Missing Number
-// Link       : https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+// Link       : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Dijkstra's Algorithm (using Set)
-// Link       : https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-set-in-stl/
+// Link       : https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

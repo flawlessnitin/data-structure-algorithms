@@ -1,5 +1,5 @@
 // Problem    : Longest Subarray with XOR = K
-// Link       : https://www.geeksforgeeks.org/longest-subarray-having-maximum-xor/
+// Link       : https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

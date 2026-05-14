@@ -1,5 +1,5 @@
 // Problem    : Iterative Postorder Traversal (2 Stacks)
-// Link       : https://www.geeksforgeeks.org/iterative-postorder-traversal/
+// Link       : https://www.geeksforgeeks.org/problems/postorder-traversal/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

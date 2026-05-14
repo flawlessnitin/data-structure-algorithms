@@ -1,5 +1,5 @@
 // Problem    : Minimum Number of Coins
-// Link       : https://www.geeksforgeeks.org/find-minimum-number-of-coins/
+// Link       : https://www.geeksforgeeks.org/problems/number-of-coins1824/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Check if One String is Rotation of Another
-// Link       : https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+// Link       : https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

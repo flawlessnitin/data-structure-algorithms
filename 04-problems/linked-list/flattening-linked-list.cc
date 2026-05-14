@@ -1,5 +1,5 @@
 // Problem    : Flattening a Linked List
-// Link       : https://www.geeksforgeeks.org/flattening-a-linked-list/
+// Link       : https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

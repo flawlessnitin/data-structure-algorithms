@@ -1,5 +1,5 @@
 // Problem    : Implement Queue using Array
-// Link       : https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+// Link       : https://www.geeksforgeeks.org/problems/implement-queue-using-array/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

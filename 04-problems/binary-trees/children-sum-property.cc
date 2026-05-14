@@ -1,5 +1,5 @@
 // Problem    : Children Sum Property
-// Link       : https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-bt/
+// Link       : https://www.geeksforgeeks.org/problems/children-sum-parent/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

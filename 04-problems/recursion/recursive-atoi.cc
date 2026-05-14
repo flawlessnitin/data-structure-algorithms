@@ -1,5 +1,5 @@
 // Problem    : Recursive Implementation of atoi
-// Link       : https://www.geeksforgeeks.org/recursive-implementation-of-atoi/
+// Link       : https://www.geeksforgeeks.org/problems/implement-atoi/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

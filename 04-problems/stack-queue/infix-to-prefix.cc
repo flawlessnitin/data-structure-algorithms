@@ -1,5 +1,5 @@
 // Problem    : Infix to Prefix Conversion
-// Link       : https://www.geeksforgeeks.org/conversion-of-an-infix-expression-to-a-prefix-expression/
+// Link       : https://www.geeksforgeeks.org/problems/infix-to-prefix-conversion/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

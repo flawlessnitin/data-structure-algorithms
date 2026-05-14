@@ -1,5 +1,5 @@
 // Problem    : Bellman-Ford Algorithm
-// Link       : https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/
+// Link       : https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

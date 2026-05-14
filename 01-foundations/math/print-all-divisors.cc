@@ -1,5 +1,5 @@
 // Problem    : Print all Divisors
-// Link       : https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/
+// Link       : https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

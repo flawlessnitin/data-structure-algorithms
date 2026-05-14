@@ -1,5 +1,5 @@
 // Problem    : Delete a Node in Linked List
-// Link       : https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/
+// Link       : https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

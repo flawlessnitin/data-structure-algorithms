@@ -1,5 +1,5 @@
 // Problem    : Bottom View of Binary Tree
-// Link       : https://www.geeksforgeeks.org/bottom-view-binary-tree/
+// Link       : https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

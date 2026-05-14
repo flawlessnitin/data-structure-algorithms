@@ -1,5 +1,5 @@
 // Problem    : M Coloring Problem
-// Link       : https://www.geeksforgeeks.org/m-coloring-problem/
+// Link       : https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

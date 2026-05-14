@@ -1,5 +1,5 @@
 // Problem    : Alien Dictionary
-// Link       : https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+// Link       : https://www.geeksforgeeks.org/problems/alien-dictionary/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

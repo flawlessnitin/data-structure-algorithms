@@ -1,5 +1,5 @@
 // Problem    : Inorder Successor and Predecessor in BST
-// Link       : https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/
+// Link       : https://www.geeksforgeeks.org/problems/predecessor-and-successor/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

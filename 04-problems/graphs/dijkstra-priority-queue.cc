@@ -1,5 +1,5 @@
 // Problem    : Dijkstra's Algorithm (Priority Queue)
-// Link       : https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+// Link       : https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

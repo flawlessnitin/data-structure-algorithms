@@ -1,5 +1,5 @@
 // Problem    : Largest Subarray with Zero Sum
-// Link       : https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+// Link       : https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

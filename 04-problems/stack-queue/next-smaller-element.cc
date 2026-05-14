@@ -1,5 +1,5 @@
 // Problem    : Next Smaller Element
-// Link       : https://www.geeksforgeeks.org/next-smaller-element/
+// Link       : https://www.geeksforgeeks.org/problems/next-smaller-element/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

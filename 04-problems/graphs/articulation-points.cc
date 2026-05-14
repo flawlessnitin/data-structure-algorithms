@@ -1,5 +1,5 @@
 // Problem    : Articulation Points in a Graph
-// Link       : https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/
+// Link       : https://www.geeksforgeeks.org/problems/articulation-point-1/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

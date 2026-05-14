@@ -1,5 +1,5 @@
 // Problem    : BFS of Graph
-// Link       : https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+// Link       : https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

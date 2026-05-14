@@ -1,5 +1,5 @@
 // Problem    : Shortest Path in DAG
-// Link       : https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/
+// Link       : https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

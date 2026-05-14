@@ -1,5 +1,5 @@
 // Problem    : Minimum Time to Burn the Binary Tree
-// Link       : https://www.geeksforgeeks.org/burn-the-binary-tree-starting-from-the-target-node/
+// Link       : https://www.geeksforgeeks.org/problems/burning-tree/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

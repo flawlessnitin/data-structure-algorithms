@@ -1,5 +1,5 @@
 // Problem    : Kruskal's MST Algorithm
-// Link       : https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

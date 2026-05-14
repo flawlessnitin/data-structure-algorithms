@@ -1,5 +1,5 @@
 // Problem    : Transform to Sum Tree
-// Link       : https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/
+// Link       : https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

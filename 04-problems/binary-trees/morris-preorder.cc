@@ -1,5 +1,5 @@
 // Problem    : Morris Preorder Traversal
-// Link       : https://www.geeksforgeeks.org/morris-traversal-for-preorder/
+// Link       : https://www.geeksforgeeks.org/problems/preorder-traversal/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

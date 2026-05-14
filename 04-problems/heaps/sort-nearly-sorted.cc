@@ -1,5 +1,5 @@
 // Problem    : Sort a Nearly Sorted (K Sorted) Array
-// Link       : https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+// Link       : https://www.geeksforgeeks.org/problems/k-sorted-array/0
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

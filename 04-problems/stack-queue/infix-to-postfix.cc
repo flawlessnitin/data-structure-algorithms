@@ -1,5 +1,5 @@
 // Problem    : Infix to Postfix Conversion
-// Link       : https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+// Link       : https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

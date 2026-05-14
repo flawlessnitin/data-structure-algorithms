@@ -1,5 +1,5 @@
 // Problem    : 0/1 Knapsack Problem
-// Link       : https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+// Link       : https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

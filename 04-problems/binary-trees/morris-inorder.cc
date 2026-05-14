@@ -1,5 +1,5 @@
 // Problem    : Morris Inorder Traversal
-// Link       : https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+// Link       : https://www.geeksforgeeks.org/problems/inorder-traversal/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

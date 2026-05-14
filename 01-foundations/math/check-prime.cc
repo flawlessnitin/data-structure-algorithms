@@ -1,5 +1,5 @@
 // Problem    : Check for Prime
-// Link       : https://www.geeksforgeeks.org/prime-numbers/
+// Link       : https://www.geeksforgeeks.org/problems/prime-number2314/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

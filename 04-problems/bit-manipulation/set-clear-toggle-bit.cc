@@ -1,5 +1,5 @@
 // Problem    : Set / Clear / Toggle a Bit
-// Link       : https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/
+// Link       : https://www.geeksforgeeks.org/problems/set-kth-bit/0
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Subset Sum Problem
-// Link       : https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+// Link       : https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

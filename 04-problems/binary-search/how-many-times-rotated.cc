@@ -1,5 +1,5 @@
 // Problem    : How Many Times is the Array Rotated
-// Link       : https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
+// Link       : https://www.geeksforgeeks.org/problems/rotation4723/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Count Subsequences with Sum K
-// Link       : https://www.geeksforgeeks.org/count-subsequences-having-sum-k/
+// Link       : https://www.geeksforgeeks.org/problems/count-subsequences-with-sum-k/0
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

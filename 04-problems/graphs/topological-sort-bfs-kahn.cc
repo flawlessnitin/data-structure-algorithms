@@ -1,5 +1,5 @@
 // Problem    : Topological Sort — Kahn's Algorithm (BFS)
-// Link       : https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/
+// Link       : https://www.geeksforgeeks.org/problems/topological-sort/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

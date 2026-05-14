@@ -1,5 +1,5 @@
 // Problem    : Print All Root to Leaf Paths
-// Link       : https://www.geeksforgeeks.org/given-a-binary-tree-print-all-root-to-leaf-paths/
+// Link       : https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

@@ -1,5 +1,5 @@
 // Problem    : Longest Subarray with Sum K (Pos + Neg)
-// Link       : https://www.geeksforgeeks.org/longest-sub-array-sum-k/
+// Link       : https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k2837/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

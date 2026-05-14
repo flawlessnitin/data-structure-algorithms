@@ -1,5 +1,5 @@
 // Problem    : Ceil in BST
-// Link       : https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
+// Link       : https://www.geeksforgeeks.org/problems/floor-in-bst/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

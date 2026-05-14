@@ -1,5 +1,5 @@
 // Problem    : Merge Two BSTs
-// Link       : https://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/
+// Link       : https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

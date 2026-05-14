@@ -1,5 +1,5 @@
 // Problem    : Unbounded Knapsack
-// Link       : https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
+// Link       : https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

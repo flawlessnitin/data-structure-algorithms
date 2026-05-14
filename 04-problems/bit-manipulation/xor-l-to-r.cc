@@ -1,5 +1,5 @@
 // Problem    : Find XOR of Numbers from L to R
-// Link       : https://www.geeksforgeeks.org/find-xor-of-numbers-from-the-range-l-r/
+// Link       : https://www.geeksforgeeks.org/problems/xor-of-all-numbers-in-a-given-range/0
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

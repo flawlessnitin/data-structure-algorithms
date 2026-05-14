@@ -1,5 +1,5 @@
 // Problem    : Reverse a Doubly Linked List
-// Link       : https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/
+// Link       : https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

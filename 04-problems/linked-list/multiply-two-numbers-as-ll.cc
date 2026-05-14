@@ -1,5 +1,5 @@
 // Problem    : Multiply Two Numbers Represented as LL
-// Link       : https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/
+// Link       : https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

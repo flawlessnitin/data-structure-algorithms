@@ -1,5 +1,5 @@
 // Problem    : Fractional Knapsack
-// Link       : https://www.geeksforgeeks.org/fractional-knapsack-problem/
+// Link       : https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

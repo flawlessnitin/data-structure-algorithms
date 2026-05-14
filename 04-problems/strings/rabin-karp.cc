@@ -1,5 +1,5 @@
 // Problem    : Rabin-Karp Algorithm
-// Link       : https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
+// Link       : https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1
 // Difficulty : Hard
 
 #include <bits/stdc++.h>

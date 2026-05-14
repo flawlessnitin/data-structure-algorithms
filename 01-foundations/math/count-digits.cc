@@ -1,5 +1,5 @@
 // Problem    : Count Digits
-// Link       : https://www.geeksforgeeks.org/program-count-digits-integer-3/
+// Link       : https://www.geeksforgeeks.org/problems/count-digits5716/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

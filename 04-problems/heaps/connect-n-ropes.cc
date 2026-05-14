@@ -1,5 +1,5 @@
 // Problem    : Connect N Ropes with Minimum Cost
-// Link       : https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>

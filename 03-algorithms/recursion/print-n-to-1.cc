@@ -1,5 +1,5 @@
 // Problem    : Print N to 1 without loop
-// Link       : https://www.geeksforgeeks.org/print-n-1-without-using-loops/
+// Link       : https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
 // Difficulty : Easy
 
 #include <bits/stdc++.h>

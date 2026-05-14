@@ -1,5 +1,5 @@
 // Problem    : Prim's MST Algorithm
-// Link       : https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+// Link       : https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
 // Difficulty : Medium
 
 #include <bits/stdc++.h>
