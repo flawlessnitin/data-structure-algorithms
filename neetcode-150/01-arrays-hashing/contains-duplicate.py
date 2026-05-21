@@ -2,6 +2,8 @@
 # Link       : https://leetcode.com/problems/contains-duplicate/
 # Difficulty : Easy
 
+from typing import List
 
 class Solution:
-    pass
+    def hasDuplicate(self, nums: List[int]) -> bool:
+        
